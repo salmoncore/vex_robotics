@@ -2,10 +2,10 @@
 
 ## StarStruck
 ### 2016-2017
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KDt8bltHC3k" frameborder="0" allowfullscreen></iframe>
+[![StarStruck Highlight](https://img.youtube.com/vi/KDt8bltHC3k/hqdefault.jpg)](https://www.youtube.com/embed/KDt8bltHC3k)
 
 ## InTheZone
 ### 2017-2018
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sVGhSrQkeHU" frameborder="0" allowfullscreen></iframe>
+[![InTheZone Highlight](https://img.youtube.com/vi/sVGhSrQkeHU/hqdefault.jpg)](https://www.youtube.com/embed/sVGhSrQkeHU)
 
 *Thanks to Mr. Hall, Zach, Hallan, Kelsey, Joseph, Kristiana, and all others who supported the team!*
